@@ -42,5 +42,5 @@ const getCityTemperature = async cityName => {
     }
 }
 
-getCityData('Rio de Janeiro')
-getCityTemperature('Rio de Janeiro')
+// getCityData('Rio de Janeiro')
+// getCityTemperature('Rio de Janeiro')
